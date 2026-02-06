@@ -23,19 +23,29 @@ et des **cas plus avancés intégrant de l’IA et des pipelines data end-to-end
 ---
 
 ## 📁 Structure du repository
-data-analytics-portofolio
-├── README.md
+
 ├── foundations/
+
 │   ├── python-data-cleaning/
+
 │   ├── sql-analytics/
+
 │   └── statistics-for-ml/
+
 │
+
 ├── projects/
+
 │   ├── analytics/
+
 │   ├── bi/
+
 │   ├── ml/
+
 │   └── end-to-end/
-│
+
+├── README.md
+
 └── assets/
 
 
@@ -46,7 +56,8 @@ data-analytics-portofolio
 - **projects/** rojets orientés **cas métier**, réalisés avec Python, SQL, Power BI et ML.
   Chaque projet inclut un README expliquant le problème, la méthodologie
   et les résultats.
-- **end-to-end/** Projets complets couvrant toute la chaîne data :
+- **end-to-end/**
+  Projets complets couvrant toute la chaîne data :
   **extraction → nettoyage → transformation → analyse → visualisation → recommandations**.
 
 ---
