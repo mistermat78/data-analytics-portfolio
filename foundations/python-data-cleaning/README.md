@@ -30,13 +30,10 @@ plutôt que des approches théoriques ou sur-optimisées.
 
 python-data-cleaning/
 │── README.md
-│
 │── notebooks/
 │ └── 01_csv_import_recipes.ipynb
-│
 │── data/
-│	├── raw/
-│   ├── processed/
-│   └── sample/
-│
-│── requirements.txt
+│ ├── raw/
+│ ├── processed/
+│ └── sample/
+└── requirements.txt
