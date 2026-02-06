@@ -24,6 +24,7 @@ et des **cas plus avancés intégrant de l’IA et des pipelines data end-to-end
 
 ## 📁 Structure du repository
 
+data-cleaing-portofolio
 ├── foundations/
 
 │   ├── python-data-cleaning/
