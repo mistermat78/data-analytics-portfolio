@@ -51,25 +51,23 @@ et des **cas plus avancés intégrant de l’IA et des pipelines data end-to-end
 
 ### Détail des sections
 
-- **`foundations/`**Bases techniques réutilisables : data cleaning, SQL analytique, statistiques.
+- **foundations/** Bases techniques réutilisables : data cleaning, SQL analytique, statistiques.
   Cette section montre ma capacité à **structurer et capitaliser les fondamentaux**.
-- **`projects/`**Projets orientés **cas métier**, réalisés avec Python, SQL, Power BI et ML.
+- **projects/** rojets orientés **cas métier**, réalisés avec Python, SQL, Power BI et ML.
   Chaque projet inclut un README expliquant le problème, la méthodologie
   et les résultats.
-- **`end-to-end/`**
-  Projets complets couvrant toute la chaîne data :
+- **end-to-end/** Projets complets couvrant toute la chaîne data :
   **extraction → nettoyage → transformation → analyse → visualisation → recommandations**.
 
 ---
 
 ## ⭐ Projets mis en avant
 
-- **Data Cleaning Cookbook (Python)**Recettes pratiques pour nettoyer des données réelles et imparfaites avec pandas.
-- **Projets d’analyse métier (Python / SQL)**Analyses exploratoires, indicateurs clés et interprétation des résultats.
-- **Dashboards Power BI**Visualisations orientées décision et communication avec les parties prenantes.
-- **Projets Machine Learning appliqués**Prédiction, segmentation et détection d’anomalies avec interprétation business.
-- **Pipeline data end-to-end**
-  Cas complet intégrant données, IA et recommandations.
+- **Data Cleaning Cookbook (Python)** Recettes pratiques pour nettoyer des données réelles et imparfaites avec pandas.
+- **Projets d’analyse métier (Python / SQL)** Analyses exploratoires, indicateurs clés et interprétation des résultats.
+- **Dashboards Power BI** Visualisations orientées décision et communication avec les parties prenantes.
+- **Projets Machine Learning appliqués** Prédiction, segmentation et détection d’anomalies avec interprétation business.
+- **Pipeline data end-to-end** Cas complet intégrant données, IA et recommandations.
 
 ---
 
