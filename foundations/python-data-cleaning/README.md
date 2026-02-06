@@ -29,14 +29,14 @@ plutôt que des approches théoriques ou sur-optimisées.
 ## 📁 Structure du dossier
 
 python-data-cleaning/
-├── notebooks/
-│ ├── 01_csv_import_recipes.ipynb
+│── README.md
 │
-├── data/
-│ ├── raw/
-│ ├── processed/
-│ └── sample/
+│── notebooks/
+│ └── 01_csv_import_recipes.ipynb
 │
-├── utils/
-│ └── cleaning_helpers.py
-└── requirements.txt
+│── data/
+│	├── raw/
+│   ├── processed/
+│   └── sample/
+│
+│── requirements.txt
