@@ -1,0 +1,14 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+anaconda_projects/
+
+# Python
+__pycache__/
+
+#OS
+.DS_Store
+Thumbs.db
+
+# Environnements
+.venv/
+env/
