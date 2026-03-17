@@ -24,7 +24,7 @@ et des **cas plus avancés intégrant de l’IA et des pipelines data end-to-end
 
 ## 📁 Structure du repository
 
-data-cleaing-portofolio/
+data-analytics-portfolio/
 
 ├── foundations/
 
@@ -49,7 +49,6 @@ data-cleaing-portofolio/
 ├── README.md
 
 └── assets/
-
 
 ### Détail des sections
 
@@ -88,7 +87,6 @@ Mon objectif est de démontrer :
 ## 📬 Contact
 
 *(Les coordonnées seront ajoutées une fois les premiers projets complets publiés.)*
-
 
 N’hésitez pas à parcourir les projets et notebooks — chaque dossier contient
 un README expliquant la démarche et les choix effectués.
