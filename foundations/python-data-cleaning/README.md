@@ -25,23 +25,24 @@ Ce cookbook privilégie des solutions simples et explicables,
 proches de ce qui est réellement pratiqué en entreprise,
 plutôt que des approches théoriques ou sur-optimisées.
 
-
 ## 📁 Structure du dossier
 
+```
 python-data-cleaning/
 
 │── README.md
-
 │── notebooks/
-
-│ └── 01_csv_import_recipes.ipynb
-
+│ ├── 01_csv_import_recipes.ipynb
+│ ├── 02_first_checks_after_csv_import.ipynb
+│ ├── 03_inplace_concept.ipynb
+│ └── 04_text_to_numeric_conversion.ipynb
 │── data/
-
-│ ├── raw/
-
-│ ├── processed/
-
-│ └── sample/
-
+│ ├── bitcoin_wire_int.csv
+│ ├── bitcoins.csv
+│ ├── world-cities.barsep.csv
+│ ├── world-cities.csv
+│ ├── world-cities.metadata_footer.csv
+│ ├── world-cities.metadata_header.csv
+│ └── world-cities.nohead.csv
 └── requirements.txt
+```
