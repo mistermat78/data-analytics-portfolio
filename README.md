@@ -24,31 +24,25 @@ et des **cas plus avancés intégrant de l’IA et des pipelines data end-to-end
 
 ## 📁 Structure du repository
 
+```
 data-analytics-portfolio/
-
 ├── foundations/
-
 │   ├── python-data-cleaning/
-
 │   ├── sql-analytics/
-
 │   └── statistics-for-ml/
-
 │
-
 ├── projects/
-
 │   ├── analytics/
-
 │   ├── bi/
-
 │   ├── ml/
-
 │   └── end-to-end/
-
 ├── README.md
-
 └── assets/
+```
+
+---
+
+
 
 ### Détail des sections
 
