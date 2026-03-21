@@ -42,13 +42,11 @@ data-analytics-portfolio/
 
 ---
 
-
-
 ### Détail des sections
 
 - **foundations/** Bases techniques réutilisables : data cleaning, SQL analytique, statistiques.
   Cette section montre ma capacité à **structurer et capitaliser les fondamentaux**.
-- **projects/** rojets orientés **cas métier**, réalisés avec Python, SQL, Power BI et ML.
+- **projects/** projets orientés **cas métier**, réalisés avec Python, SQL, Power BI et ML.
   Chaque projet inclut un README expliquant le problème, la méthodologie
   et les résultats.
 - **end-to-end/**
