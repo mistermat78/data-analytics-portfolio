@@ -1,4 +1,5 @@
-# SQL Analytics Foundations
+
+# SQL Analytics
 
 Ce dossier présente mes fondamentaux en SQL appliqué à l'analyse de données.
 
@@ -38,6 +39,15 @@ Le dataset de démonstration simule un environnement e-commerce simple avec des 
 - catégories
 - paiements
 
+Ce choix a une vocation pédagogique : il permet d’illustrer de manière claire et progressive les fondamentaux SQL utilisés en analyse de données.
+
+## Positionnement de cette section
+
+Cette section est dédiée aux fondations techniques SQL.
+
+Le dataset e-commerce est utilisé ici comme support d’apprentissage et de démonstration des concepts analytiques.
+Les projets métier plus avancés et sectoriels, orientés notamment finance, assurance et énergie, sont développés dans les autres sections du portfolio.
+
 ## Objectif analytique
 
 Au-delà de la syntaxe SQL, cette section montre comment transformer des données brutes en :
@@ -45,6 +55,8 @@ Au-delà de la syntaxe SQL, cette section montre comment transformer des donnée
 - indicateurs de performance
 - analyses métier
 - insights exploitables
+
+Elle constitue une base technique avant le développement de projets plus complets, spécialisés et orientés décision métier.
 
 ## Outils
 
@@ -62,7 +74,7 @@ Au-delà de la syntaxe SQL, cette section montre comment transformer des donnée
 
 ## Suite du portfolio
 
-Les projets complets et plus avancés se trouvent dans :
+Les projets complets, plus avancés et plus spécialisés se trouvent dans :
 
 - `projects/analytics/`
 - `projects/bi/`
